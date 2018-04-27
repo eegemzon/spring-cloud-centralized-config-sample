@@ -1,0 +1,1 @@
+# spring-cloud-centralized-config-sample
